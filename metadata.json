@@ -1,0 +1,6 @@
+{
+  "name": "Offline Marathi Government Services Chatbot",
+  "description": "Offline Marathi Government Services Chatbot powered by local Marathi NLP pipeline with TF-IDF, Cosine Similarity, Unicode Normalization, and SQLite database.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
